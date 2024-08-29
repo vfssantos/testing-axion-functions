@@ -1,0 +1,1 @@
+export default (adapters) => ({ ...adapters, permissions: { "allow-all": true } })
